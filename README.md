@@ -28,3 +28,10 @@ Here are some ideas to get you started:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rrhanadyatma)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihan.adyatma20@gmail.com)
 
+#### Pacman
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoyya-move/zoyya-move/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zoyya-move/zoyya-move/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zoyya-move/zoyya-move/output/pacman-contribution-graph.svg">
+</picture>
