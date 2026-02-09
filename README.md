@@ -35,4 +35,4 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zoyya-move/zoyya-move/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/zoyya-move/zoyya-move/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/zoyya-move/zoyya-move/output/snake.svg" alt="Snake animation" /> -->
