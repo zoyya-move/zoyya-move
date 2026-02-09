@@ -1,4 +1,7 @@
-## Hi there 👋
+## HELLO WORLD! I'm Raihan Adyatma 👋
+
+
+![ARPAN TAIK](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamR3NmZzYThvMzdnOXA2ZmZzdDIzZ3JsYmNzazNwajhtaWFhamo5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 <!--
 **zoyya-move/zoyya-move** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👜 I’m currently working on **PDAM KOTA TEGAL**
+- 📖 I’m currently learning **React** & **Laravel** Framework
+
