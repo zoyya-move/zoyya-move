@@ -1,6 +1,3 @@
-## HELLO WORLD!🌍 I'm Raihan Adyatma 👋
-
-
 ![ARPAN TAIK](./IMG/github-header-banner.png)
 
 <!--
