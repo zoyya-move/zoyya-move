@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👜 I’m currently working on **PDAM KOTA TEGAL**
+- 👜 I’m currently apprenticeship on **PDAM KOTA TEGAL**
 - 📖 I’m currently learning **React** & **Laravel** Framework
+- 🎓 I'm study at the University of Indonesia
 
 ![ARPAN TAIK](./IMG/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif)
 
