@@ -1,7 +1,7 @@
-## HELLO WORLD! I'm Raihan Adyatma 👋
+## HELLO WORLD!🌍 I'm Raihan Adyatma 👋
 
 
-![ARPAN TAIK](./IMG/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif)
+![ARPAN TAIK](./IMG/github-header-banner.png)
 
 <!--
 **zoyya-move/zoyya-move** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 - 👜 I’m currently working on **PDAM KOTA TEGAL**
 - 📖 I’m currently learning **React** & **Laravel** Framework
+
+![ARPAN TAIK](./IMG/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif)
 
