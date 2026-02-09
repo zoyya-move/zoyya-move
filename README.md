@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white" />
 
 ##### Connect with me
-![https://www.instagram.com/rrhanadyat_?igsh=NW52bjFuenEzMTVk&utm_source=qr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.tiktok.com/@raihanadyat_?_r=1&_t=ZS-93lf4ddKDQO](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![https://x.com/rrhanadyatma?s=21](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![https://raihan.adyatma20@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rrhanadyat_)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@raihanadyat_)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rrhanadyatma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raihan.adyatma20@gmail.com)
+
